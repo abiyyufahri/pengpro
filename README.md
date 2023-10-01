@@ -6,7 +6,7 @@ Tugas Pengenalan Pemrograman
 - Materi 1 - Matematika B
 - Materi 1 - Matematika 3 Digit
 
-```
+```go
 
 package main
 
